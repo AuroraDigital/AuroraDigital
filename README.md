@@ -2,7 +2,7 @@
 
 ## Guiding Principals
 - Explicit over implicit
-- Employ Loose coupling, high cohesion
+- Employ ;oose coupling, high cohesion
 - Favor [composition (has-a) over inheritance (is-a)](https://realpython.com/inheritance-composition-python/): Use mixins, interfaces, and protocols, abstracts, and related structures to keep class hierarchies flat.
 - Favor declarative programming over imperative programming.
 - Don’t trade readability for write-time convenience. Code is meant to be read.
