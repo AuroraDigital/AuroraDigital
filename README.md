@@ -1,4 +1,4 @@
-# AuroraDigital
+# Aurora Digital
 
 ## Guiding Principals
 - Explicit over implicit
