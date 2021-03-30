@@ -12,7 +12,9 @@
 - Use [design patterns](https://sourcemaking.com/design_patterns) but don't be a slave to them.
 - Avoid greater than 3 levels of nesting all around. This goes for project folder structure, overlays in user interfaces, inheritance hierarchies, sitemaps, etc.
 - Follow agreed upon best practices and terminology of each unique tool, framework, or library.
+- Follow a style guide (PEP8, AURORA ESLint, etc.)
 - Don’t reinvent the wheel, but be cautious when introducing libraries.
+
 
 These principles are a compass not a roadmap. Always use good judgement.
 
