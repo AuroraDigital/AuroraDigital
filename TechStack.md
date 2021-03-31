@@ -14,6 +14,7 @@
 - Tailwind CSS
 - GraphQL
 - Storybook
+- Jest
 - ESLint
 - Prettier
 - XState
