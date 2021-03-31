@@ -9,6 +9,8 @@
 
 
 ## Frontend
+
+### Web Development
 - React (CRA, Next.js, Gatsby.Js)
 - TypeScript
 - Tailwind CSS
@@ -19,3 +21,8 @@
 - Prettier
 - XState
 - GreenSock GSAP
+
+### Mobile Development
+- Swift
+- SwiftUI
+- CoreData
