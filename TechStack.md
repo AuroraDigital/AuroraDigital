@@ -11,9 +11,10 @@
 ## Frontend
 - React (CRA, Next.js, Gatsby.Js)
 - TypeScript
-- Storybook
+- Tailwind CSS
 - GraphQL
+- Storybook
 - ESLint
 - Prettier
-- Tailwind CSS
+- XState
 - GreenSock GSAP
