@@ -2,6 +2,7 @@
 
 ## Cloud
 - AWS
+- Docker (and docker-compose)
 
 ## Backend
 - Django (serverless with Zappa)
