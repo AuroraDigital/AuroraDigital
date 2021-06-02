@@ -23,3 +23,5 @@ These principles are a compass not a roadmap. Always use good judgement.
 [Inheritance and Composition](https://realpython.com/inheritance-composition-python/)
 
 [Naming Cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+
+[Project Guidelines](https://github.com/elsewhencode/project-guidelines)
