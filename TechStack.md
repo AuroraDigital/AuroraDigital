@@ -2,20 +2,20 @@
 
 ## Cloud
 - AWS
+- Serverless Framework
 - Docker (and docker-compose)
 
 ## Backend
 - Django (serverless with Zappa)
 - PostgreSQL
 
-
 ## Frontend
 
 ### Web Development
-- React (CRA, Next.js, Gatsby.Js)
+- React (Next.js, Gatsby.Js, CRA)
 - TypeScript
 - Tailwind CSS
-- GraphQL
+- GraphQL (Apollo and Relay)
 - Storybook
 - Jest
 - ESLint
