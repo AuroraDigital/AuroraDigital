@@ -28,6 +28,7 @@
  - [Hygen (Codegen)](https://github.com/jondot/hygen)
  - Sentry
  - Retool
+ - [AppSmith](https://github.com/appsmithorg/appsmith)
 
 ### Mobile Development
 - Swift
