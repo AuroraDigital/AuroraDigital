@@ -6,8 +6,10 @@
 - Docker (and docker-compose)
 
 ## Backend
-- Vercel
 - Django (serverless with Zappa)
+- Vercel
+- AWS Amplify
+- MongoDB Realm
 - PostgreSQL
 
 ## Frontend
