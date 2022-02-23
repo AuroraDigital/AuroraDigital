@@ -27,6 +27,9 @@ https://github.com/alan2207/bulletproof-react
 [Naming Cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 
 [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
+
 [Readme Guidelines](https://dev.to/github/how-to-create-the-perfect-readme-for-your-open-source-project-1k69)
+
 [Design Patterns](https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l)
+
 [Patterns.dev](https://patterns.dev)
