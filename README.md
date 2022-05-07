@@ -33,3 +33,5 @@ https://github.com/alan2207/bulletproof-react
 [Design Patterns](https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l)
 
 [Patterns.dev](https://patterns.dev)
+
+[Checklist Design](https://www.checklist.design)
