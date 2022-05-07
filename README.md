@@ -20,7 +20,7 @@ These principles are a compass not a roadmap. Always use good judgement.
 
 ### Resources:
 
-https://github.com/alan2207/bulletproof-react
+[Bulletproof React](https://github.com/alan2207/bulletproof-react)
 
 [Inheritance and Composition](https://realpython.com/inheritance-composition-python/)
 
