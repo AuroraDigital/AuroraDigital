@@ -36,3 +36,12 @@ These principles are a compass not a roadmap. Always use good judgement.
 [Patterns.dev](https://patterns.dev)
 
 [Checklist Design](https://www.checklist.design)
+
+[W3 Web Best Practices](https://www.w3.org/TR/dwbp/)
+
+[W3 Mobile Web App Best Practices](https://www.w3.org/TR/mwabp/) 
+
+[W3 Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/)
+
+
+
