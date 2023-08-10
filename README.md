@@ -27,6 +27,8 @@ These principles are a compass not a roadmap. Always use good judgement.
 
 [Definitive Guide to Modeling Polymorphism](https://confuzeus.com/hub/django-web-framework/model-polymorphism/)
 
+[Avoid Django's GenericForeignKey](https://lukeplant.me.uk/blog/posts/avoid-django-genericforeignkey/)
+
 [Modeling Polymorphism in Django](https://realpython.com/modeling-polymorphism-django-python/)
 
 [Naming Cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
