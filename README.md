@@ -1,8 +1,7 @@
 # AURORA Digital
 
 ## Guiding Principals
-- Act with intent. Every action must serve some sort of purpose and provide some sort of value.
-- Explicit over implicit
+- Explicit is better than implicit
 - Employ loose coupling, high cohesion
 - Favor [composition (has-a) over inheritance (is-a)](https://realpython.com/inheritance-composition-python/): Use mixins, interfaces, and protocols, abstracts, and related structures to keep class hierarchies flat.
 - Favor declarative programming over imperative programming.
